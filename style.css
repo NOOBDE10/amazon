@@ -1,0 +1,29 @@
+body{
+    background-image: url("images/amazon2.jpg");  
+}
+
+input{
+    border-radius: 15px;
+    padding: 5px;
+    width: 500px;
+    height: 30px;
+}
+
+nav{   
+    background-color: #3a3d41;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+}
+
+.navbar{
+    background-color: #131921;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    display: flex;  
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+}
